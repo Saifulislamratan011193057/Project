@@ -1,2 +1,2 @@
 # Project
-This is my class teacher's project.
+This repository contains a smiple html page.
